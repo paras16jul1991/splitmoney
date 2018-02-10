@@ -40,8 +40,8 @@ spring:
         serialization.indent_output: true
     data:
         mongodb:
-            uri: mongodb://localhost:27017
-            database: splitmoney
+            uri: mongodb://admin:admin@ds031601.mlab.com:31601
+            database: heroku_cfzz6rtk
     mail:
         host: localhost
         port: 25

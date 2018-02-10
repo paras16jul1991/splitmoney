@@ -34,7 +34,7 @@ spring:
             enabled: false
     data:
         mongodb:
-            uri: mongodb://localhost:27017
+            uri: mongodb://admin:admin@ds031601.mlab.com:31601/heroku_cfzz6rtk
             database: splitmoney
     mail:
         host: localhost
